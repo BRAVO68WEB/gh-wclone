@@ -1,4 +1,4 @@
-# wclone - GitHub Workspace Clone
+# wclone - GitHub Workspace Repo Clone
 
 ## Description 👀
 
